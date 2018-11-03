@@ -313,4 +313,4 @@ client.on('message', message => {
     })
  }
 });
-client.login('NTA1OTIzMTU1Njg5NDcyMDAw.Drapyg.-jrPCCu34riTpwMG3wGQwLeMOoc');
+client.login('Token');
